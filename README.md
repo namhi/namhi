@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Language
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,cs,sqlite)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,figma,visualstudio,obsidian)](https://skillicons.dev)
